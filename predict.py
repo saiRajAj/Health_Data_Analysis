@@ -23,7 +23,7 @@ cholesterol = int(input("Enter Cholesterol Level: "))
 smoking = input("Smoking (Yes/No): ").strip().lower()
 activity = input("Physical Activity (Low/Medium/High): ").strip().lower()
 
-# Encoding inputs
+# Encoding Inputs
 gender = 1 if gender == "male" else 0
 smoking = 1 if smoking == "yes" else 0
 
