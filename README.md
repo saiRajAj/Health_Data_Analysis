@@ -5,7 +5,7 @@ This project is a **Python-based Health Data Analysis system** that analyzes pat
 
 The system allows users to **enter new patient details at runtime**, processes the data, and predicts whether the patient is at risk using a **Logistic Regression** model.
 
----
+-----
 
 ## 🎯 Objectives
 - Analyze health and lifestyle data
